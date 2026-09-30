@@ -1,6 +1,6 @@
 ## Hi there I'm ioblings 👋
 
-Self-taught tinkerer from Italy 🇮🇹. Smarthome, homelab and everyday tech,
+Self-taught tech enthusiast from Italy 🇮🇹. Smarthome, homelab and everyday tech,
 learned the hard way and documented step by step. I share the results on
 YouTube and my blog as **ioblings**.
 
