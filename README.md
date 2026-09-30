@@ -29,6 +29,6 @@ posting logs or configs.
 ## 📌 Find me
 
 - 🎥 YouTube: [@ioblings](https://youtube.com/@ioblings)
-- ✍️ Blog: [blog.ioblings.com](https://www.blog.ioblings.com)
+- ✍️ Blog: [blog.ioblings.com](https://blog.ioblings.com)
 - 📸 Instagram: [@ioblings](https://instagram.com/ioblings)
 
